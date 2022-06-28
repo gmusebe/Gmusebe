@@ -35,6 +35,9 @@ I'm a Statistical & Investigative Data Analyst. Currently working with [Code for
 <br />
 <br />
 
+---
+<img align="left" alt="Gmusebe stats", src="https://github-readme-stats.vercel.app/api?username=Gmusebe&show_icons=true&hide_border=true" />
+
 [twitter]: https://twitter.com/ivan_musebe
 [linkedin]: https://www.linkedin.com/in/musebe-ivan/
 
