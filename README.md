@@ -8,7 +8,6 @@ I'm a Statistical & Investigative Data Analyst. Currently working with [Code for
   * Big Data with Apache Spark and AWS
   * Data Engineering using Databricks on AWS and Azuure
 - ⚡ Fun fact: I love to hike and singing
-- 😻 Check out the NFT collection I created: [CodeCats]
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](x__x#gh-light-mode-only)
