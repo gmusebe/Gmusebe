@@ -7,6 +7,7 @@ I'm a Statistical & Investigative Data Analyst. Currently working with [Code for
   * AWS Data Analytics Specialty 
   * Big Data with Apache Spark and AWS
   * Data Engineering using Databricks on AWS and Azuure
+  * Machine Learning
 - ⚡ Fun fact: I love to hike and singing
 
 ### Connect with me:
