@@ -25,7 +25,10 @@
     </td>
     <td align="center" style="padding: 0 8px;">
       <a href="mailto:musebeivan@gmail.com">
-        <img src="./img/email-light.svg" width="24" alt="Email" title="musebeivan@gmail.com" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./img/email-dark.svg">
+          <img src="./img/email-light.svg" width="24" alt="Email" title="musebeivan@gmail.com" />
+        </picture>
       </a>
     </td>
     <td align="center" style="padding: 0 8px; border-left: 1px solid #ddd;">
@@ -87,7 +90,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.maltego.com/" target="_blank" title="Maltego">
-    <img src="./img/maltego.svg" height="32" alt="Maltego" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/maltego.svg">
+      <img src="./img/maltego-light.svg" height="32" alt="Maltego" />
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://openrefine.org/" target="_blank" title="OpenRefine">
